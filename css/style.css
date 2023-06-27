@@ -1390,7 +1390,7 @@ div.portfolio-div {
 	.google-maps-div #map-canvas {
 		height: inherit;
         margin: 0px;
-        padding: 0px
+        padding: 0px;
         border: 1px solid red;
 	}
 
