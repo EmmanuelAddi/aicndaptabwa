@@ -122,7 +122,7 @@ html {
 .pt_heading h2 {
 	font-size: 34px;
 	color: #1a1a1a;
-	font-family: "Montserrat";
+	font-family: "cmg_sansbold";
 	font-weight: 700;
 	text-transform: uppercase;
 	margin: 0px 0px 0px 0px;
@@ -303,7 +303,7 @@ div.intro-div {
 			font-size: 16px;
 			text-transform: uppercase;
 			color: #ffffff;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 700;
 		}
 		.hexagone-graphic {
@@ -461,7 +461,7 @@ div.intro-div {
 		}
 	
 	.pt_navbar .pt_nav a {
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 700;
 		font-size: 15px;
 		color: #fff;
@@ -536,7 +536,7 @@ div.portfolio-div .pt_heading h2 {
 			margin-right: -2px;
 		}
 	.pt_portfolio_nav ul a {
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 400;
 		font-size: 13px;
 		color: #fff;
@@ -562,7 +562,7 @@ div.portfolio-div .pt_heading h2 {
 		margin: 10px auto 26px auto;  
 	}
 	.intro-icon-block h2 {
-		font-family: "Open Sans";
+		font-family: "cmg_sansbold";
 		font-weight: 700;
 		font-size: 16px;
 		margin: 0px 0px 13px 0px;
@@ -572,7 +572,7 @@ div.portfolio-div .pt_heading h2 {
 	}
 	.intro-icon-block p {
 		color: #1a1a1a;
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 400;
 		font-size: 13px;
 		line-height: 23px;
@@ -586,7 +586,7 @@ div.portfolio-div {
 
 .pt_portfolio_nav {}
 .pt_heading h3 {
-	font-family: "Open Sans";
+	font-family: "cmg_sansbold";
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 28px;
@@ -675,7 +675,7 @@ div.portfolio-div {
 		}
 		.pt_portfolio_grid article .portfolio-cover h4 {
 			color: #ffffff;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			font-size: 18px;
 			margin-top: 16px;
@@ -759,7 +759,7 @@ div.portfolio-div {
 			left: 1px;
 			z-index: 999;
 			padding: 30px 25px;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			font-size: 13px;
 			color: #fff;
@@ -788,7 +788,7 @@ div.portfolio-div {
 		position: absolute;
 		bottom: 84px;
 		left: 2px;
-		font-family: "Montserrat";
+		font-family: "cmg_sansmedium";
 		font-weight: 700;
 		font-size: 16px;
 		color: #fff;
@@ -800,7 +800,7 @@ div.portfolio-div {
 		position: absolute;
 		bottom: 38px;
 		left: 2px;
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 400;
 		font-size: 13px;
 		color: #fff;
@@ -827,7 +827,7 @@ div.portfolio-div {
 		margin: 20px 0px 20px 0px;
 	}
 		.plans .plan h2 {
-			font-family: "Montserrat";
+			font-family: "cmg_sansmedium";
 			font-weight: 700;
 			font-size: 20px;
 			text-transform: uppercase;
@@ -848,7 +848,7 @@ div.portfolio-div {
 				height: 436px;
 			}
 			.plans .plan .plan-container .plan-price {
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 700;
 				font-size: 44px;
 				color: #62dc42;
@@ -859,7 +859,7 @@ div.portfolio-div {
 					font-size: 22px;
 				}
 			.plans .plan .plan-container .price-info {
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 700;
 				font-size: 13px;
 				text-transform: uppercase;
@@ -875,7 +875,7 @@ div.portfolio-div {
 				margin: 10px 0 10px 0;
 			}
 			.plans .plan .plan-container h5 {
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				color: #e4e4e4;
@@ -888,7 +888,7 @@ div.portfolio-div {
 				}
 			.plans .plan .plan-container .choose_plan_btn {
 				display: inline-block;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				color: #fff;
 				font-size: 11px;
@@ -931,7 +931,7 @@ div.portfolio-div {
 		.training-schedule-div .schedule-table td {
 			padding: 20px 30px 20px 30px;
 			background: #1a1a1a;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			color: #62dc42;
 			font-size: 13px;
@@ -953,7 +953,7 @@ div.portfolio-div {
 			margin: 0px auto;
 			margin-top: 20px;
 			display: block;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			color: #e4e4e4;
 			font-size: 13px;
@@ -973,7 +973,7 @@ div.portfolio-div {
 	background: #f4f4f4;
 }
 	.blog-details-div h1.post-title {
-		font-family: "Montserrat";
+		font-family: "cmg_sansmedium";
 		font-weight: 700;
 		font-size: 34px;
 		line-height: 45px;
@@ -1007,7 +1007,7 @@ div.portfolio-div {
 				margin: 2px 0px 0px 0px;
 				padding: 20px 30px 20px 30px;
 				background: #1a1a1a;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-size: 13px;
 				font-weight: 400;
 				color: #e4e4e4;
@@ -1054,7 +1054,7 @@ div.portfolio-div {
 				}
 			
 		.blog-details-div .post-content {
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			line-height: 24px;
 			font-size: 13px;
@@ -1076,7 +1076,7 @@ div.portfolio-div {
 				text-align: right;
 				text-transform: uppercase;
 				color: #1a1a1a;
-				font-family: "Montserrat";
+				font-family: "cmg_sansregular";
 				font-weight: 700;
 				font-size: 16px;
 			}
@@ -1162,7 +1162,7 @@ div.portfolio-div {
 			.blog-list-div article .post-date {
 				display: block;
 				width: 100%;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				color: #9c9c9c;
@@ -1175,7 +1175,7 @@ div.portfolio-div {
 			.blog-list-div article h3 a {
 				text-transform: uppercase;
 				color: #1a1a1a;
-				font-family: "Montserrat";
+				font-family: "cmg_sansregular";
 				font-weight: 700;
 				font-size: 20px;
 				line-height: 28px;
@@ -1186,7 +1186,7 @@ div.portfolio-div {
 			
 			.blog-list-div article p {
 				color: #1a1a1a;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				line-height: 23px;
@@ -1195,7 +1195,7 @@ div.portfolio-div {
 			.blog-list-div article .read-more {
 				margin: 20px 0px 0px 0px;
 				display: inline-block;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 300;
 				font-size: 11px;
 				color: #fff;
@@ -1221,7 +1221,7 @@ div.portfolio-div {
 			background: #ff4739;
 		}
 		.ready-to-train h4 {
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 700;
 			font-size: 18px;
 			text-transform: uppercase;
@@ -1229,7 +1229,7 @@ div.portfolio-div {
 			padding: 0px 0px 0px 0px;
 		}
 		.ready-to-train h5 {
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 			font-size: 12px;
 			text-transform: uppercase;
@@ -1264,12 +1264,12 @@ div.portfolio-div {
 			font-size: 16px;
 			line-height: 28px;
 			color: #fff;
-			font-family: "Open Sans";
+			font-family: "cmg_sansregular";
 			font-weight: 400;
 		}
 			.testimonials-div .the-testimonials-list .testimonial-by {
 				color: #fff;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 16px;
 			}
@@ -1344,7 +1344,7 @@ div.portfolio-div {
 				text-transform: uppercase;
 			}
 			.contact-div .contact-form table td .form-input-text {
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				border: 1px solid #e4e4e4;
@@ -1355,7 +1355,7 @@ div.portfolio-div {
 				text-transform: uppercase;
 			}
 			.contact-div .contact-form table td .form-textarea {
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				border: 1px solid #e2e2e2;
@@ -1369,7 +1369,7 @@ div.portfolio-div {
 				background: #ff4739;
 				border-radius: 2px;
 				text-transform: uppercase;
-				font-family: "Open Sans";
+				font-family: "cmg_sansregular";
 				font-weight: 400;
 				font-size: 13px;
 				color: #fff;
@@ -1402,7 +1402,7 @@ div.portfolio-div {
 }
 	.fast-contact-div div {
 		color: #e4e4e4;
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 400;
 		font-size: 13px;
 	}
@@ -1443,7 +1443,7 @@ footer {
 
 	footer .copyright {
 		color: #1a1a1a;
-		font-family: "Open Sans";
+		font-family: "cmg_sansregular";
 		font-weight: 400;
 		font-size: 13px;
 		margin: 0px 0px 100px 0px;
