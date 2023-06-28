@@ -176,6 +176,13 @@ div {
 
 /* 5. Icons
 ================================================== */
+.icon-image {
+	height: 96px;
+	width: 96px;
+	border-radius: 12px;
+	padding-bottom: 8px;
+}
+
 i.icon {
 	display: block;
 	width: 50px;
